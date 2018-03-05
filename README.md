@@ -1,4 +1,3 @@
-# WikileaksAfghanistanDataAnalysis
-Wikileaks Afghanistan Data Analysis
+# Wikileaks Afghanistan Data Analysis and Visualization
 
-数据分析和可视化效果见：https://chengjunwang.com/WikileaksAfghanistanDataAnalysis/ 或者 https://chengjunwang.com/WikileaksAfghanistanDataAnalysis/
+Check https://chengjunwang.com/WikileaksAfghanistanDataAnalysis/ or https://chengjunwang.com/WikileaksAfghanistanDataAnalysis/
